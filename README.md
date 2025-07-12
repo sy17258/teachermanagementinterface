@@ -112,6 +112,12 @@ A comprehensive, modern teacher and student management platform built with Next.
 - **tailwind-merge** - Tailwind class merging utility
 - **date-fns** - Modern JavaScript date utility library
 
+## 🚀 Quick Deploy
+
+### Deploy to Vercel (One-Click)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsy17258%2Fteachermanagementinterface.git&project-name=teacher-management-interface&repository-name=teacher-management-interface)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
