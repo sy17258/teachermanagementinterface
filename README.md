@@ -9,6 +9,70 @@ A comprehensive, modern teacher and student management platform built with Next.
 ![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-Enhanced-6366F1?logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-Package%20Manager-F69220?logo=pnpm&logoColor=white)
 
+## 🎥 Demo Video
+
+<div align="center">
+
+### **🎬 Watch TeacherHub in Action**
+
+[![TeacherHub Management Interface Demo](https://drive.google.com/thumbnail?id=1vdh858EFfQLs7iQC8an0DXgJDnBe2MPY&sz=w800-h450)](https://drive.google.com/file/d/1vdh858EFfQLs7iQC8an0DXgJDnBe2MPY/view?usp=drive_link)
+
+*Click the image above to watch a comprehensive walkthrough of all features*
+
+**📺 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1vdh858EFfQLs7iQC8an0DXgJDnBe2MPY/view?usp=drive_link)**
+
+</div>
+
+### **🎯 Demo Highlights**
+
+| Feature | Demo Timestamp | Description |
+|---------|---------------|-------------|
+| 🏠 **Dashboard Overview** | `00:00 - 01:30` | Real-time analytics and activity feed |
+| 👨‍🏫 **Teacher Registration** | `01:31 - 03:45` | Multi-step onboarding with Aceternity UI |
+| 👨‍🎓 **Student Management** | `03:46 - 05:20` | Student profiles and enrollment tracking |
+| 📚 **Course Creation** | `05:21 - 07:10` | Course catalog and pricing management |
+| 📅 **Schedule Management** | `07:11 - 09:00` | Interactive calendar with drag-and-drop |
+| 💬 **Messaging System** | `09:01 - 10:30` | Internal communication and file sharing |
+| ⏰ **Time Tracking** | `10:31 - 11:45` | Digital clock in/out and reporting |
+| ⚙️ **Settings & Admin** | `11:46 - 13:00` | Configuration and user permissions |
+| 🎨 **UI Components** | `13:01 - 14:30` | Aceternity UI animations and interactions |
+| 📱 **Responsive Design** | `14:31 - 15:00` | Mobile and tablet compatibility |
+
+### **🎮 Interactive Demo**
+
+Experience TeacherHub live without installation:
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sy17258/teachermanagementinterface)
+[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/sy17258/teachermanagementinterface)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sy17258/teachermanagementinterface)
+
+### **📸 Screenshots**
+
+<details>
+<summary><strong>📱 Click to view application screenshots</strong></summary>
+
+#### **🏠 Dashboard**
+![Dashboard](https://via.placeholder.com/800x450/6366F1/FFFFFF?text=Dashboard+Screenshot)
+*Main dashboard with real-time analytics and activity feed*
+
+#### **👨‍🏫 Teacher Registration**
+![Teacher Registration](https://via.placeholder.com/800x450/059669/FFFFFF?text=Teacher+Registration)
+*Multi-step teacher onboarding with beautiful Aceternity UI components*
+
+#### **📅 Schedule Management**
+![Schedule](https://via.placeholder.com/800x450/DC2626/FFFFFF?text=Schedule+Management)
+*Interactive calendar with drag-and-drop functionality*
+
+#### **💬 Messaging System**
+![Messaging](https://via.placeholder.com/800x450/7C3AED/FFFFFF?text=Messaging+System)
+*Internal communication platform with file sharing*
+
+#### **📱 Mobile View**
+![Mobile View](https://via.placeholder.com/400x600/F59E0B/FFFFFF?text=Mobile+Responsive)
+*Fully responsive design optimized for all devices*
+
+</details>
+
 ## ✨ Features
 
 ### 🏠 **Dashboard**
@@ -111,12 +175,6 @@ A comprehensive, modern teacher and student management platform built with Next.
 - **class-variance-authority** - Component variant management
 - **tailwind-merge** - Tailwind class merging utility
 - **date-fns** - Modern JavaScript date utility library
-
-## 🚀 Quick Deploy
-
-### Deploy to Vercel (One-Click)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsy17258%2Fteachermanagementinterface.git&project-name=teacher-management-interface&repository-name=teacher-management-interface)
 
 ## 🚀 Getting Started
 
