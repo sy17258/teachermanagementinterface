@@ -23,21 +23,6 @@ A comprehensive, modern teacher and student management platform built with Next.
 
 </div>
 
-### **🎯 Demo Highlights**
-
-| Feature | Demo Timestamp | Description |
-|---------|---------------|-------------|
-| 🏠 **Dashboard Overview** | `00:00 - 01:30` | Real-time analytics and activity feed |
-| 👨‍🏫 **Teacher Registration** | `01:31 - 03:45` | Multi-step onboarding with Aceternity UI |
-| 👨‍🎓 **Student Management** | `03:46 - 05:20` | Student profiles and enrollment tracking |
-| 📚 **Course Creation** | `05:21 - 07:10` | Course catalog and pricing management |
-| 📅 **Schedule Management** | `07:11 - 09:00` | Interactive calendar with drag-and-drop |
-| 💬 **Messaging System** | `09:01 - 10:30` | Internal communication and file sharing |
-| ⏰ **Time Tracking** | `10:31 - 11:45` | Digital clock in/out and reporting |
-| ⚙️ **Settings & Admin** | `11:46 - 13:00` | Configuration and user permissions |
-| 🎨 **UI Components** | `13:01 - 14:30` | Aceternity UI animations and interactions |
-| 📱 **Responsive Design** | `14:31 - 15:00` | Mobile and tablet compatibility |
-
 ### **🎮 Interactive Demo**
 
 Experience TeacherHub live without installation:
